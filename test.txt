@@ -25,5 +25,6 @@ print('В тексте найдено: '
       + str(countADJ) + ' прилагательных, '  
       + str(countADVERB) + ' наречий, '  
       + str(countVERB) + ' глаголов')  
+  print ()
   
 handle.close()  
